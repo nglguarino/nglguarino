@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelo Guarino
-- 👀 I’m interested in Data Science, ML and DL
-- 🌱 I’m currently learning Econ and Data Science @ UNIPD
+- 👀 I’m mostly interested in GenAI and LLMs
+- 🌱 I’m currently learning Data Science @UNIPD
 - 📫 How to reach me: @nglguarino on LinkedIn
 
 <!---
