@@ -1,4 +1,4 @@
-I'm fascinated by the idea of building something that will be infinitely smarter than us. In the meanwhile, I also enjoy exploring how AI can augment storytelling, gaming, and learning experiences through generative models and self-improving systems.
+I'm fascinated by the idea of building something that will be infinitely smarter than us. In the meanwhile, I enjoy exploring how AI can augment storytelling, gaming, and learning experiences through generative models and self-improving systems.
 
 ## 🔬 Research Interests
 - **Generative AI** - Pushing boundaries in text, audio, and image synthesis
