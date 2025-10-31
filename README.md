@@ -1,8 +1,8 @@
-I'm fascinated by the idea of building something that will be infinitely smarter than us. In the meanwhile, I enjoy exploring how AI can augment research, coding, and interactive experiences through novel efficient architectures and self-improving systems.
-
 ## 🔬 Research Interests
-- **Generative AI** - Text, audio, and image synthesis
-- **Self-Improving Systems** - Reinforcement learning and autonomous feedback loops
+I'm fascinated by the idea of building something that will be infinitely smarter than us. My research interest is in self-improving systems.
+
+- **Generative AI** - Text and image synthesis
+- **Self-Improving Systems** - Reinforcement learning, meta learning, and autonomous feedback loops
 - **AI Safety & Alignment, Explainable AI** - Building interpretable and controllable AI systems
 
 
