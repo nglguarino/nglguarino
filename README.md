@@ -7,9 +7,4 @@ I'm fascinated by the idea of building something that will be infinitely smarter
 
 
 
-
 I'm always excited to work on interesting projects and research. Let's connect!
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=nglguarino&label=Profile%20views&color=778899&style=flat" alt="Profile Views" />
-</div>
