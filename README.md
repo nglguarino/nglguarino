@@ -1,6 +1,6 @@
 ## 🔬 Research Interests
 
-- **AI and Society** - narrative dynamics, information ecosystems
+- **AI and Society** - Narrative dynamics, information ecosystems
 - **Self-Improving Systems** - Reinforcement learning, meta learning, autonomous feedback loops
 - **AI Safety & Alignment, Explainable AI** - Interpretable and controllable AI systems
 
